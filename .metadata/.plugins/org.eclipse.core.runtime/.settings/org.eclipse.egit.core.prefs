@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Dev\\AB-IMS\\.git;C\:\\Dev\\IMS\\.git;
+GitRepositoriesView.GitDirectories.relative=AB-IMS\\.git;IMS\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

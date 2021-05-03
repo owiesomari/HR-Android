@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Arab Bank</string>
+    <string name="amount">AMOUNT</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+    <string name="yearly_income_hint">Yearly Income</string>
+    <string name="salary_hint">Your Salary</string>
+
+    <string-array name="loanReasons">
+        <item>Home</item>
+        <item >New car</item>
+        <item>Used car</item>
+        <item>Personal</item>
+    </string-array>
+
+    <string-array name="vacationType">
+        <item>Annual</item>
+        <item >Sick</item>
+        <item>Work from home</item>
+        <item>Unpaid</item>
+        <item>family death</item>
+        <item>marriage</item>
+
+    </string-array>
+
+</resources>
